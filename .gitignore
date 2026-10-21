@@ -1,0 +1,12 @@
+# Archivos temporales de NetBeans
+**/nbproject/private/
+**/target/
+**/.nb-gradle/
+build/
+dist/
+nbdist/
+.nb-vars.properties
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
