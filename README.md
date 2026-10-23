@@ -1,4 +1,4 @@
-## Sistema de Sorteo de Grupos (con sonido :v)
+## Sistema de Sorteo de Grupos (con sonido)
 **(modo oscuro)**
 <img width="877" height="590" alt="image" src="https://github.com/user-attachments/assets/6b11db2c-f1e3-457d-b46f-0ea244dcb788" />
 **(modo claro)**
